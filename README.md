@@ -3,7 +3,7 @@ A collection of learning resources on the topics of Artificial Intelligence, Mac
 
 
 ## Courses
-* Machine Learning Crash Course, with TensorFlow API by Gooogle: [google](https://developers.google.com/machine-learning/crash-course/).
+* Machine Learning Crash Course, with TensorFlow API by Google: [google](https://developers.google.com/machine-learning/crash-course/).
 
 ## Podcasts
 * Data Skeptic by Kyle Polich: [castbox](https://castbox.fm/channel/Data-Skeptic-id635).
